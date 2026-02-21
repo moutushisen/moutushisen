@@ -69,9 +69,10 @@ for social data analysis, network modeling, and predictive analytics.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moutushisen&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutushisen&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moutushisen&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moutushisen&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
 
 ---
 
