@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Machine+Learning+Engineer;NLP+Researcher;Data+Scientist)
 
 # Hi, I'm Moutushi Debnath Sen 👋
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![NLP](https://img.shields.io/badge/NLP-Transformers-orange)
 
 🇸🇪 Based in Sweden  
 📊 MSc in Machine Learning & Data Science  
@@ -76,3 +81,5 @@ for social data analysis, network modeling, and predictive analytics.
 - Email: moutushisen@gmail.com
 
 ⭐ Always open to collaboration in ML, NLP & Network Science.
+
+![Profile Views](https://komarev.com/ghpvc/?username=moutushisen&color=blue)
