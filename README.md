@@ -83,3 +83,14 @@ for social data analysis, network modeling, and predictive analytics.
 ⭐ Always open to collaboration in ML, NLP & Network Science.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moutushisen&color=blue)
+
+## 🐍 Contribution Snake
+
+![snake](https://github.com/moutushisen/moutushisen/blob/main/dist/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/moutushisen/moutushisen/blob/main/dist/github-contribution-grid-snake.svg" />
+</p>
+
