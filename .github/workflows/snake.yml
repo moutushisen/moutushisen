@@ -6,8 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
@@ -18,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - uses: EndBug/add-and-commit@v9
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          message: "Generate contribution snake"
-          add: "dist/*"
+          commit_message: "Generate contribution snake"
+          branch: main
