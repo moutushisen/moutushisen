@@ -86,11 +86,12 @@ for social data analysis, network modeling, and predictive analytics.
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/moutushisen/moutushisen/blob/main/dist/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/moutushisen/moutushisen/main/dist/github-contribution-grid-snake.svg)
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/moutushisen/moutushisen/blob/main/dist/github-contribution-grid-snake.svg" />
 </p>
+
 
