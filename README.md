@@ -69,10 +69,7 @@ for social data analysis, network modeling, and predictive analytics.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moutushisen&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moutushisen&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=moutushisen&show_icons=true&theme=radical"/>
 
 ---
 
