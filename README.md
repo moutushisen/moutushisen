@@ -80,7 +80,9 @@ for social data analysis, network modeling, and predictive analytics.
 
 ⭐ Always open to collaboration in ML, NLP & Network Science.
 
-![Profile Views](https://komarev.com/ghpvc/?username=moutushisen&color=blue)
+## ![Profile Views](https://komarev.com/ghpvc/?username=moutushisen&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=moutushisen&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🐍 Contribution Snake
 
